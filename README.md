@@ -11,7 +11,7 @@ PHP библиотека для интеграции с платежной си�
 ## Установка
 
 ```bash
-composer require oplati/acquiring
+composer require oplati-by/php-acquiring
 ```
 
 ## Использование
